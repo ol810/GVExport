@@ -2566,5 +2566,5 @@ msgstr ""
 
 #: 
 msgid "Context menu when tile clicked"
-msgstr ""
+msgstr "Контекстное меню при нажатии на плитку"
 
